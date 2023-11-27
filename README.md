@@ -1,7 +1,7 @@
 # Root Cause Mapping Working Group
 
 ## What is root cause mapping?
-Root cause mapping is the identification of the underlying cause of a vulnerability. This is best done by correlating CVE Records with CWE entries. Today, this is not done accurately at scale by the ecosystem.
+Root cause mapping is the identification of the underlying cause of a vulnerability. This is best done by correlating CVE Records with CWE entries. Root cause mapping is not done accurately at scale by the vulnerability management ecosystem.
  
 ## Why is root cause mapping important?
 Root cause mapping is valuable because it directly illuminates where investments, policy, and practices can address the root causes responsible for vulnerabilities so that they can be eliminated. This applies to both industry and government decision makers. Additionally, it enables:
@@ -9,7 +9,7 @@ Root cause mapping is valuable because it directly illuminates where investments
 - Further insight to potential “exploitability” based on root cause (e.g., command injection vulnerabilities will see increased adversary attention, be targeted by certain actors)
 A valuable feedback loop into the SDLC or architecture design planning
  
-## How is the working group seeking to improve accurate root cause mapping at scale?
+## How is the RCM WG seeking to improve accurate root cause mapping at scale?
 The Root Cause Mapping Working Group (RCM WG) was established by CVE® and CWE™ community stakeholders (e.g., Intel, Microsoft, Red Hat, Rapid 7, CISA, HSSEDI) with the purpose of determining how to improve and scale accurate root cause mapping. Specifically, the working group is exploring the feasibility of an effective decentralized root cause mapping ecosystem.
  
 This would mean instead of an intermediary being responsible (e.g., the NVD, the CWE team), root cause mapping is taken on by those that know the vulnerabilities and products best. The initial targets are CVE Numbering Authorities (CNAs) because they:
