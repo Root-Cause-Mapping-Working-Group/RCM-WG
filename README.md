@@ -3,10 +3,10 @@
 ## What is root cause mapping?
 Root cause mapping is the identification of the underlying cause of a vulnerability. This is best done by correlating CVE Records with CWE entries. Today, this is not done accurately at scale by the ecosystem.
  
-## How would accurate root cause mapping enable CISA priorities such as Secure-by-Design?
+## Why is root cause mapping important?
 Root cause mapping is valuable because it directly illuminates where investments, policy, and practices can address the root causes responsible for vulnerabilities so that they can be eliminated. This applies to both industry and government decision makers. Additionally, it enables:
-Trend analysis (e.g., how big of a problem is memory safety compared to other problems like injection)
-Further insight to potential “exploitability” based on root cause (e.g., command injection vulnerabilities will see increased adversary attention, be targeted by certain actors)
+- Trend analysis (e.g., how big of a problem is memory safety compared to other problems like injection)
+- Further insight to potential “exploitability” based on root cause (e.g., command injection vulnerabilities will see increased adversary attention, be targeted by certain actors)
 A valuable feedback loop into the SDLC or architecture design planning
  
 ## How is the working group seeking to improve accurate root cause mapping at scale?
@@ -22,9 +22,9 @@ If CNAs can’t do root cause mapping accurately, there should be no expectation
  
 ## What are the working group’s initial priorities?
 The working group is initially focused on identifying the capabilities, processes, and information needed to improve and scale accurate root cause mapping by:
-Identifying and describing the current challenges in performing and reporting accurate root cause mapping
-Defining how the CWE hierarchy and content must improve to facilitate better root cause mapping which will have the effect of better achieving CWE program adoption and coverage goals
-Develop new capabilities to simplify the root cause mapping process
+- Identifying and describing the current challenges in performing and reporting accurate root cause mapping
+- Defining how the CWE hierarchy and content must improve to facilitate better root cause mapping which will have the effect of better achieving CWE program adoption and coverage goals
+- Developing new capabilities to simplify the root cause mapping process
  
 ## What has the group accomplished so far?
 The RCM WG established the following goals for the working group:
