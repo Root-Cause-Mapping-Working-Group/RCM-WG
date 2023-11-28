@@ -12,7 +12,7 @@ A valuable feedback loop into the SDLC or architecture design planning
 ## How is the RCM WG seeking to improve accurate root cause mapping at scale?
 The Root Cause Mapping Working Group (RCM WG) was established by CVE® and CWE™ community stakeholders (e.g., Intel, Microsoft, Red Hat, Rapid 7, CISA, HSSEDI) with the purpose of determining how to improve and scale accurate root cause mapping. Specifically, the working group is exploring the feasibility of an effective decentralized root cause mapping ecosystem.
  
-This would mean instead of an intermediary being responsible (e.g., the NVD, the CWE team), root cause mapping is taken on by those that know the vulnerabilities and products best. The initial targets are CVE Numbering Authorities (CNAs) because they:
+This would mean instead of an intermediary being responsible (e.g., NIST's National Vulnerability Database [NVD] team, the CWE team), root cause mapping is taken on by those that know the vulnerabilities and products best. The initial targets are CVE Numbering Authorities (CNAs) because they:
 - Participate in both the CVE and CWE programs
 - Demonstrate responsible disclosure of vulnerability information
 - Provide a basis of measurement for CVE-to-CWE correlation accuracy
