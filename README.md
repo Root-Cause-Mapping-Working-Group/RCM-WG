@@ -6,8 +6,9 @@ Root cause mapping is the identification of the underlying cause of a vulnerabil
 ## Why is root cause mapping important?
 Root cause mapping is valuable because it directly illuminates where investments, policy, and practices can address the root causes responsible for vulnerabilities so that they can be eliminated. This applies to both industry and government decision makers. Additionally, it enables:
 - Trend analysis (e.g., how big of a problem is memory safety compared to other problems like injection)
-- Further insight to potential “exploitability” based on root cause (e.g., command injection vulnerabilities will see increased adversary attention, be targeted by certain actors)
-A valuable feedback loop into the SDLC or architecture design planning
+- Further insight to potential “exploitability” based on root cause (e.g., command injection vulnerabilities will tend to see increased adversary attention, be targeted by certain actors)
+- Driving the removal of classes of vulnerabilities: Root cause mapping saves vendors money through encouraging a valuable feedback loop into an SDLC or architecture design planning (i.e., the more weaknesses avoided in product development, the less vulnerabilities to manage after deployment)
+- Facilitate industry competition on security; organizations can demonstrate transparency to customers how they are targeting and tackling problems in their products
  
 ## How is the RCM WG seeking to improve accurate root cause mapping at scale?
 The Root Cause Mapping Working Group (RCM WG) was established by CVE® and CWE™ community stakeholders (e.g., Intel, Microsoft, Red Hat, Rapid 7, CISA, HSSEDI) with the purpose of determining how to improve and scale accurate root cause mapping. Specifically, the working group is exploring the feasibility of an effective decentralized root cause mapping ecosystem.
