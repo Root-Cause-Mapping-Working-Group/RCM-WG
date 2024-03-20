@@ -30,8 +30,8 @@ The working group is initially focused on identifying the capabilities, processe
 ## What has the group accomplished so far?
 The RCM WG established the following goals for the working group:
 1. Define the business case for doing accurate root cause mapping
-– (Objective 1) Socialize and confirm with the broader community
-2. Determine the feasibility of accurate, decentralized root cause mapping
+- (Objective 1) Socialize and confirm with the broader community
+3. Determine the feasibility of accurate, decentralized root cause mapping
 – (Objective 1) Identify the capabilities, processes, and information needed to make root cause mapping easier
  
 The RCM has also established communication channels, began recruiting additional members, and is close to finalizing a charter. Initial members have begun sharing what they are currently doing to fill gaps in the existing CWE structure to make it more adoptable.
