@@ -1,6 +1,6 @@
 # Root Cause Mapping Working Group
 
-![alt text](https://github.com/Root-Cause-Mapping-Working-Group/RCM-WG/blob/6f8b2e0562671bf478634bd40c2e44cf14c24469/Documentation/dino.jpg "RCM Dino")
+![RCMdino](https://github.com/Root-Cause-Mapping-Working-Group/RCM-WG/blob/6f8b2e0562671bf478634bd40c2e44cf14c24469/Documentation/dino.jpg | width=200 "RCM Dino")
 
 ## What is root cause mapping?
 Root cause mapping is the identification of the underlying cause of a vulnerability. This is best done by correlating CVE Records with CWE entries. Root cause mapping is not done accurately at scale by the vulnerability management ecosystem.
