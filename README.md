@@ -36,3 +36,6 @@ The RCM WG established the following goals for the working group:
 - (Objective 1) Identify the capabilities, processes, and information needed to make root cause mapping easier
  
 The RCM has also established communication channels, began recruiting additional members, and is close to finalizing a charter. Initial members have begun sharing what they are currently doing to fill gaps in the existing CWE structure to make it more adoptable.
+
+## How can I get involved?
+The RCM WG is accepting new members. If you are interested in participating, please email us at cwe@mitre.org
